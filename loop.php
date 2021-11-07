@@ -5,4 +5,6 @@ continue;
 }
 echo"<p>$i</p>";
 }
+array 
 ?>
+
